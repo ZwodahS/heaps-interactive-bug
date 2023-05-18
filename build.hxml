@@ -1,0 +1,5 @@
+--hl run.hl
+--library heaps-dev
+--library hlsdl
+--main App.hx
+-D windowSize=200x200
